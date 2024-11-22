@@ -1,0 +1,2 @@
+# Lenme
+Django Project
